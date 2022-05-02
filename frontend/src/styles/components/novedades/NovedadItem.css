@@ -1,0 +1,11 @@
+
+div .titulo{
+    font-size:large;
+}
+.cuerpo{
+    font-size:small;
+    color: grey;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
